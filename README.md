@@ -1,2 +1,2 @@
 # EstudosAndroid
-Estudos sobre a plataforma Android (Java)
+Estudos sobre a plataforma Android (Java/Kotlin)
